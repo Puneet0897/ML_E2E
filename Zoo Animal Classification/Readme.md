@@ -1,4 +1,4 @@
-# Flight Fare Predictor
+# Zoo Animal Classification
 ## Overview
 - This is a small dataset containing 101 animal records with their features and classes.Also a file with animals with respective classes which are present in zoo are mentioned.This dataset is present on kaggle.Please check [here](https://www.kaggle.com/uciml/zoo-animal-classification) for more details on dataset. 
 
